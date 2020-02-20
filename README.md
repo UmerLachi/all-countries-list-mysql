@@ -1,4 +1,4 @@
-# all-countries-list-mysql
+# All-countries-list-mysql
 All Countries List with Name, Code and Currency for Mysql
 
 How to use?
